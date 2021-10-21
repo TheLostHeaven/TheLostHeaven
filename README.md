@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @TheLostHeaven
-- 👀 I’m interested in programing
-- 🌱 I’m currently learning Python, C++ and Html  
-- 💞️ I’m looking to collaborate on any projetc
+
 
 
 <!---
