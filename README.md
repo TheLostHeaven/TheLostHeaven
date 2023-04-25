@@ -1,9 +1,29 @@
-¡Acerca de mi!
+# ¡Acerca de mi!
 
-                ¡Bienvenidos a mi perfilde GitHub!
+<h1 align="center">¡Bienvenidos a mi perfilde GitHub!</h1>
 
+<hr>
 
-<!---
-TheLostHeaven/TheLostHeaven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Skills
+Aqui puedes apreciar algunas de  mis habilidades y estoy abiertamente a aprender más
+- Html
+- Css
+- Python
+<hr>
+
+## Skills por aprender
+
+- JavaScript
+- Angular 
+- TypeScript
+- React
+<hr>
+
+# Proyectos
+<h2>Proximamente</h2>
+<!-- Puedes visitar mi Github y ver las habilidades que tego y más adelante m -->
+<hr>
+<h1> Tambien puedes contactarme por:</h1>
+
+- Linkedin: 
+- Correo: 
