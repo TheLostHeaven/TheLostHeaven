@@ -1,6 +1,6 @@
 # ¡Acerca de mi!
 
-<h1 align="center">¡Bienvenidos a mi perfilde GitHub!</h1>
+<h1 align="center">¡Bienvenidos a mi perfil de GitHub!</h1>
 
 <hr>
 
