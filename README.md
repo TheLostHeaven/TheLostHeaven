@@ -1,17 +1,17 @@
-# ¡Acerca de mi!
+# ¡Acerca de mi! 💻
 
-<h1 align="center">¡Bienvenidos a mi perfil de GitHub!</h1>
+<h1 align="center">¡Bienvenidos a mi perfil de GitHub! 👀</h1>
 
 <hr>
 
-## Skills
+## Skills ⌨
 Aqui puedes apreciar algunas de  mis habilidades y estoy abiertamente a aprender más
 - Html
 - Css
 - Python
 <hr>
 
-## Skills por aprender
+## Skills por aprender 💿
 
 - JavaScript
 - Angular 
@@ -19,11 +19,11 @@ Aqui puedes apreciar algunas de  mis habilidades y estoy abiertamente a aprender
 - React
 <hr>
 
-# Proyectos
+# Proyectos 💾
 <h2>Proximamente</h2>
 <!-- Puedes visitar mi Github y ver las habilidades que tego y más adelante m -->
 <hr>
-<h1> Tambien puedes contactarme por:</h1>
+<h1> Tambien puedes contactarme por: 📱</h1>
 
 - Linkedin: 
 - Correo: 
