@@ -42,7 +42,7 @@ Aqui puedes apreciar algunas de  mis habilidades y estoy abiertamente a aprender
 - Crédito de asesoramiento de seguridad
 
 <hr>
-<h1> Achievements Unlock 🔓 </h1>
+<h1> Achievements Unlocked 🔓 </h1>
 
 - Pull Shark
 - YOLO
