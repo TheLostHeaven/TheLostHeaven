@@ -2,6 +2,8 @@
 
 <h1 align="center">¡Bienvenidos a mi perfil de GitHub! 👀</h1>
 
+Hola, Soy Daniel un estusiasta por la tecnologia y quiero mejorar mis habilidades tanto por Software y Hardware
+
 <hr>
 
 ## Skills ⌨
@@ -51,5 +53,8 @@ Aqui puedes apreciar algunas de  mis habilidades y estoy abiertamente a aprender
 <hr>
 <h1> Tambien puedes contactarme por: 📱</h1>
 
-- Linkedin: https://www.linkedin.com/in/dani-molina-in/
-- Correo: 
+- Linkedin:
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dani-molina-in/)
+
+- Pagina web (Proximamente): 
