@@ -51,5 +51,5 @@ Aqui puedes apreciar algunas de  mis habilidades y estoy abiertamente a aprender
 <hr>
 <h1> Tambien puedes contactarme por: 📱</h1>
 
-- Linkedin: 
+- Linkedin: https://www.linkedin.com/in/dani-molina-in/
 - Correo: 
