@@ -22,7 +22,8 @@ Aqui puedes apreciar algunas de  mis habilidades y estoy abiertamente a aprender
 <hr>
 
 # Proyectos 💾
-<h2>Proximamente</h2>
+- Programacion Orientada a Objetos (Poo)
+- Programacion Orientada a Eventos (Poe)
 
 <hr>
 <h1> Achievements on GitHub 🏆 </h1>
