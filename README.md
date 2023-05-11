@@ -8,9 +8,10 @@ Hola, Soy Daniel un estusiasta por la tecnologia y quiero mejorar mis habilidade
 
 ## Skills ⌨
 Aqui puedes apreciar algunas de  mis habilidades y estoy abiertamente a aprender más
-- Html
-- Css
-- Python
+- Html 🌐
+- Css 🎨
+- Python 🐍
+- CLI 🖥️
 <hr>
 
 ## Skills por aprender 💿
@@ -19,6 +20,7 @@ Aqui puedes apreciar algunas de  mis habilidades y estoy abiertamente a aprender
 - Angular 
 - TypeScript
 - React
+- fast Api
 <hr>
 
 # Proyectos 💾
