@@ -20,7 +20,8 @@ Aqui puedes apreciar algunas de  mis habilidades y estoy abiertamente a aprender
 - Angular 
 - TypeScript
 - React
-- fast Api
+- Fast Api
+- MongoDB
 <hr>
 
 # Proyectos 💾
