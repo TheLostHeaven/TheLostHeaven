@@ -1,6 +1,6 @@
 # ¡Acerca de mi! 💻
 
-<h1 align="center">¡Bienvenidos a mi perfil de GitHub! 👀</h1>
+<h1 align="center"> 🐱 ¡Bienvenidos a mi perfil de GitHub! 👀</h1>
 
 Hola, Soy Daniel un estusiasta por la tecnologia y quiero mejorar mis habilidades tanto por Software y Hardware
 
@@ -8,7 +8,7 @@ Hola, Soy Daniel un estusiasta por la tecnologia y quiero mejorar mis habilidade
 
 ## Skills ⌨
 Aqui puedes apreciar algunas de  mis habilidades y estoy abiertamente a aprender más
-- Html 🌐
+- Html 🔗
 - Css 🎨
 - Python 🐍
 - CLI 🖥️
