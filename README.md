@@ -22,6 +22,8 @@ Aqui puedes apreciar algunas de  mis habilidades y estoy abiertamente a aprender
 - React
 - Fast Api
 - MongoDB
+- DJango
+- NodeJs
 <hr>
 
 # Proyectos 💾
