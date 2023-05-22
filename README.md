@@ -8,9 +8,9 @@ Hola, Soy Daniel un estusiasta por la tecnologia y quiero mejorar mis habilidade
 
 ## Skills ⌨
 Aqui puedes apreciar algunas de  mis habilidades y estoy abiertamente a aprender más
-- Html 🔗
+- Html 
 - Css 🎨
-- Python 🐍
+- [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/TheLostHeaven)
 - CLI 🖥️
 <hr>
 
