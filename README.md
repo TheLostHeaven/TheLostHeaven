@@ -6,6 +6,10 @@ Hola, Soy Daniel un estusiasta por la tecnologia y quiero mejorar mis habilidade
 
 <hr>
 
+![](https://komarev.com/ghpvc/?username=TheLostHeaven)
+
+<hr>
+
 ## Skills ⌨
 Aqui puedes apreciar algunas de  mis habilidades y estoy abiertamente a aprender más
 - Html 
