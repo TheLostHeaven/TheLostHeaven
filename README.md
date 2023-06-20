@@ -12,10 +12,13 @@ Hola, Soy Daniel un estusiasta por la tecnologia y quiero mejorar mis habilidade
 
 ## Skills ⌨
 Aqui puedes apreciar algunas de  mis habilidades y estoy abiertamente a aprender más
+- DJango
+- Fast Api
 - Html 
 - Css 🎨
 - [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/TheLostHeaven)
 - CLI 🖥️
+- MySQL
 <hr>
 
 ## Skills por aprender 💿
@@ -24,13 +27,13 @@ Aqui puedes apreciar algunas de  mis habilidades y estoy abiertamente a aprender
 - Angular 
 - TypeScript
 - React
-- Fast Api
 - MongoDB
-- DJango
 - NodeJs
 <hr>
 
 # Proyectos 💾
+- Django REST Framework (Library Example)
+- Fast-Api Crud (Inventory System)
 - Programacion Orientada a Objetos (Poo)
 - Programacion Orientada a Eventos (Poe)
 
