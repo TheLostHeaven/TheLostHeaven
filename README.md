@@ -2,11 +2,15 @@
 
 <h1 align="center"> 🐱 ¡Bienvenidos a mi perfil de GitHub! 👀</h1>
 
-Hola, Soy Daniel un estusiasta por la tecnologia y quiero mejorar mis habilidades tanto por Software y Hardware
+<p align="center"> Hola, Soy Daniel un estusiasta por la tecnologia y quiero mejorar mis habilidades tanto por Software y Hardware </p>
 
 <hr>
 
-![](https://komarev.com/ghpvc/?username=TheLostHeaven)
+<p align="center">
+  <a href="https://github.com/TheLostHeaven">
+        <img src="https://komarev.com/ghpvc/?username=TheLostheaven&color=blue&style=flat)" />
+  </a>
+</p>
 
 <hr>
 
@@ -16,7 +20,7 @@ Aqui puedes apreciar algunas de  mis habilidades y estoy abiertamente a aprender
 - Fast Api
 - Html 
 - Css 🎨
-- [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/TheLostHeaven)
+- Python
 - CLI 🖥️
 - MySQL
 <hr>
@@ -30,6 +34,10 @@ Aqui puedes apreciar algunas de  mis habilidades y estoy abiertamente a aprender
 - MongoDB
 - NodeJs
 <hr>
+
+# OS 
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/TheLostHeaven)
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/TheLostHeaven)
 
 # Proyectos 💾
 - Django REST Framework (Library Example)
@@ -70,4 +78,15 @@ Aqui puedes apreciar algunas de  mis habilidades y estoy abiertamente a aprender
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dani-molina-in/)
 
-- Portafolio (Proximamente): 
+- Portafolio (Proximamente):
+
+  <a href="https://github.com/TheLostHeaven">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheLostHeaven&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/TheLostHeaven">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheLostHeaven&theme=transparent" />
+  </a>
+
+ <p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLostHeaven&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en" width="350" >
+ </p>
