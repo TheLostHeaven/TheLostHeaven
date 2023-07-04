@@ -80,6 +80,8 @@ Aqui puedes apreciar algunas de  mis habilidades y estoy abiertamente a aprender
 
 - Portafolio (Proximamente):
 
+# Statistics
+
   <a href="https://github.com/TheLostHeaven">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheLostHeaven&hide_border=true&card_width=338&theme=transparent" />
   </a>
