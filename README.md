@@ -92,3 +92,10 @@ Aqui puedes apreciar algunas de  mis habilidades y estoy abiertamente a aprender
  <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLostHeaven&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en" width="350" >
  </p>
+
+
+<h1 align="center">✍️ Citas DEV Random</h1>
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="512px" alt="CITA"/>
+</div>
