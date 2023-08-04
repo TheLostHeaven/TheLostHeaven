@@ -23,6 +23,7 @@ Aqui puedes apreciar algunas de  mis habilidades y estoy abiertamente a aprender
 - Python
 - CLI 🖥️
 - MySQL
+- Express
 <hr>
 
 ## Skills por aprender 💿
