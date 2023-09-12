@@ -47,32 +47,6 @@ Aqui puedes apreciar algunas de  mis habilidades y estoy abiertamente a aprender
 - Programacion Orientada a Eventos (Poe)
 
 <hr>
-<h1> Achievements on GitHub 🏆 </h1>
-
-- Heart On Your Sleeve
-- Open Sourcerer
-- Starstruck
-- Quickdraw
-- Pair Extraordinaire
-- Pull Shark
-- Galaxy Brain
-- YOLO
-- Patrocinador público 
-- Profesional
-- Discusión respondida
-- Miembro del Programa de Desarrolladores
-- Cazarrecompensas de errores de seguridad
-- Experto en el campus de GitHub
-- Crédito de asesoramiento de seguridad
-
-<hr>
-<h1> Achievements Unlocked 🔓 </h1>
-
-- Pull Shark
-- YOLO
-
-
-<hr>
 <h1> Tambien puedes contactarme por: 📱</h1>
 
 - Linkedin:
