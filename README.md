@@ -14,33 +14,66 @@
 
 <hr>
 
-## Skills ⌨
+## Skills ⌨️
 Aqui puedes apreciar algunas de  mis habilidades y estoy abiertamente a aprender más
-- DJango
-- Fast Api
-- Html 
-- Css 🎨
-- Python
-- CLI 🖥️
-- MySQL
-- Express
+
+[![Angular](https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=Angular)](https://github.com/TheLostHeaven)
+
+
+[![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=Express)](https://github.com/TheLostHeaven)
+
+
+[![DJango](https://img.shields.io/badge/DJango-black?style=for-the-badge&logo=DJango)](https://github.com/TheLostHeaven)
+
+
+[![FastApi](https://img.shields.io/badge/FastApi-black?style=for-the-badge&logo=FastApi)](https://github.com/TheLostHeaven)
+
+
+[![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5)](https://github.com/TheLostHeaven)
+
+[![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3)](https://github.com/TheLostHeaven)
+
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=Bootstrap)](https://github.com/TheLostHeaven)
+
+[![Tailwindcss](https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=Tailwindcss)](https://github.com/TheLostHeaven)
+
+[![sass](https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass)](https://github.com/TheLostHeaven)
+
+ [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/TheLostHeaven)
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript)](https://github.com/TheLostHeaven)
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript)](https://github.com/TheLostHeaven)
+
+[![CLI](https://img.shields.io/badge/CLI-black?style=for-the-badge&logo=CLI)](https://github.com/TheLostHeaven)
+
+[![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=MySQL)](https://github.com/TheLostHeaven)
+
+[![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=Postman)](https://github.com/TheLostHeaven)
+
+[![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB)](https://github.com/TheLostHeaven)
+
+[![NodeJs](https://img.shields.io/badge/NodeJs-black?style=for-the-badge&logo=NodeJs)](https://github.com/TheLostHeaven)
+
 <hr>
 
 ## Skills por aprender 💿
 
-- JavaScript
-- Angular 
-- TypeScript
-- React
-- MongoDB
-- NodeJs
+
+[![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React)](https://github.com/TheLostHeaven)
 <hr>
+
 
 # OS 
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/TheLostHeaven)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/TheLostHeaven)
 
 # Proyectos 💾
+
+- Django (Empleabilidad)
+- MEAN Full Stack (ToDo List)
+- MEAN Full Stack (Asist Hero)
+- MEAN Full Stack (Library Foro)
 - Django REST Framework (Library Example)
 - Fast-Api Crud (Inventory System)
 - Programacion Orientada a Objetos (Poo)
