@@ -1,6 +1,6 @@
 # ¡Acerca de mi! 💻
 
-<h1 align="center"> 🐱 ¡Bienvenidos a mi perfil de GitHub! :octocat: </h1>
+<h1 align="center"> 🐱 ¡Bienvenidos a mi perfil de GitHub! :octocat: :shipit:</h1>
 
 <p align="center"> Hola, Soy Daniel un estusiasta por la tecnologia y quiero mejorar mis habilidades tanto por Software y Hardware </p>
 
