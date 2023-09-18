@@ -53,7 +53,13 @@ Aqui puedes apreciar algunas de  mis habilidades y estoy abiertamente a aprender
 
 [![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB)](https://github.com/TheLostHeaven)
 
-[![NodeJs](https://img.shields.io/badge/NodeJs-black?style=for-the-badge&logo=NodeJs)](https://github.com/TheLostHeaven)
+[![NodeJs](https://img.shields.io/badge/NodeJs-black?style=for-the-badge&logo=Node.Js)](https://github.com/TheLostHeaven)
+
+[![Trello](https://img.shields.io/badge/Trello-black?style=for-the-badge&logo=Trello)](https://github.com/TheLostHeaven)
+
+[![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=Figma)](https://github.com/TheLostHeaven)
+
+
 
 <hr>
 
@@ -85,6 +91,7 @@ Aqui puedes apreciar algunas de  mis habilidades y estoy abiertamente a aprender
 - Linkedin:
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dani-molina-in/)
+
 
 - Portafolio (Proximamente):
 
