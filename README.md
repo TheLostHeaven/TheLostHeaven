@@ -108,6 +108,7 @@ Aqui puedes apreciar algunas de  mis habilidades y estoy abiertamente a aprender
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLostHeaven&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en" width="350" >
  </p>
 <hr>
+
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=TheLostHeaven&theme=apprentice&no-frame=true&no-bg=true&margin-w=4)
