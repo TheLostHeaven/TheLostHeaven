@@ -95,6 +95,8 @@ Aqui puedes apreciar algunas de  mis habilidades y estoy abiertamente a aprender
 
 - Portafolio (Proximamente):
 
+- Torre : https://torre.ai/s/ecBx7lXUzY 
+
 # Statistics
 
   <a href="https://github.com/TheLostHeaven">
