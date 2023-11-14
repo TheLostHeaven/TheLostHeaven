@@ -119,5 +119,5 @@ Aqui puedes apreciar algunas de  mis habilidades y estoy abiertamente a aprender
 <h1 align="center">✍️ Citas DEV Random</h1>
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&theme=dracula" width="512px" alt="CITA"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&theme=dark" width="512px" alt="CITA"/>
 </div>
