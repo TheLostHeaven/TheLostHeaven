@@ -121,3 +121,8 @@ Aqui puedes apreciar algunas de  mis habilidades y estoy abiertamente a aprender
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&theme=dark" width="512px" alt="CITA"/>
 </div>
+
+
+<a href="https://github.com/TheLostHeaven/TheLostHeaven/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=TheLostHeaven/TheLostHeaven"/>
+</a>
